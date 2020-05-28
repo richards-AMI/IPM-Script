@@ -1,5 +1,7 @@
 echo -off
 
+:GIT 
+
 :START
 date >> AMI_ipmctl.log
 time >> AMI_ipmctl.log
