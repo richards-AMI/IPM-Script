@@ -46,7 +46,7 @@ echo -off
 date
 time
 
-date >> AMI_ipmctl.log
+date > AMI_ipmctl.log
 time >> AMI_ipmctl.log
 :Version
 	echo " " >> AMI_ipmctl.log
