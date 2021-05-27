@@ -4,7 +4,7 @@ echo -off
 
 :START
 #:DMP
-#date >> AMI_DMP.log
+#date > AMI_DMP.log
 #time >> AMI_DMP.log
 #	echo " "
 #	echo " "
