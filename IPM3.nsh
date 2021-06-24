@@ -51,8 +51,8 @@ time >> AMI_ipmctl.log
 :Version
 	echo " " >> AMI_ipmctl.log
 	echo "* ************************************ * ************************************ *" >> AMI_ipmctl.log
-	echo " " >> AMI_ipmctl.log
-	echo " " >> AMI_ipmctl.log
+	echo " " 
+	echo " " 
 	echo "* ************************************ * ************************************ *" >> AMI_ipmctl.log
 	echo " " >> AMI_ipmctl.log
 	echo " " >> AMI_ipmctl.log
